@@ -53,6 +53,7 @@
     <Compile Include="OrderTest.cs" />
     <Compile Include="SumUniqueTest.cs" />
     <Compile Include="NearestToTwentyOneTest.cs" />
+    <Compile Include="PartialSumTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

@@ -43,6 +43,7 @@
     <Compile Include="Cool.cs" />
     <Compile Include="NearestToTwentyOne.cs" />
     <Compile Include="Order.cs" />
+    <Compile Include="PartialSum.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SumUnique.cs" />
   </ItemGroup>
